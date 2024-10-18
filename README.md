@@ -1,4 +1,4 @@
-# ESTRUCTURA - Rama de DEVELOP cambio ahora
+# ESTRUCTURA - Rama de MASTER cambio ahora
 ----------------------------------------
 /scraping_facebook_project
 	/fanpages
