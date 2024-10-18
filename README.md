@@ -1,4 +1,4 @@
-# ESTRUCTURA - [MAIN]
+# ESTRUCTURA - [DEVELOP]
 ----------------------------------------
 /scraping_facebook_project
 	/fanpages
