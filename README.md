@@ -20,14 +20,18 @@
 ----------------------------------------
 # Facebook Fanpage Scraper
 
-# Paso 1: Crear un Entorno Virtual en Windows
+# Paso 1: Crear un Entorno Virtual en Windows (esto de aca no va a traer aca el entorno virtual)
 Un entorno virtual te permite crear un espacio aislado en el que puedes instalar las dependencias del proyecto sin afectar el sistema global.
 ## 1.1 Dirigirme al directorio donde esta el codigo desde el CMD 
-``` Ruta
+``` Creo el entorno virtual 
 	cd C:\ruta\de\tu\proyecto
 	python -m venv nombre_entorno
 	nombre_entorno\Scripts\activate
 ```
+	Acceder al entorno virtual:
+		- Ctrl + Shift + P --> Python: Select Interpreter --> .\entorno_virtual\Scripts\python.exe
+		- Opcional, puedes ingresar a la carpeta .\entorno_virtual\Scripts\activate para activar el: "pip install -r requirements.txt"
+
 ## 1.2 Abrir el Thonny
 1. Ve a Herramientas en la barra de menú superior.
 2. Selecciona Opciones....
