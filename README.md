@@ -1,4 +1,4 @@
-# ESTRUCTURA - Rama de MAIN cambio ahora
+# ESTRUCTURA - [MAIN]
 ----------------------------------------
 /scraping_facebook_project
 	/fanpages
